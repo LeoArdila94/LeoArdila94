@@ -1,6 +1,6 @@
 <!--
 **LeoArdila94/LeoArdila94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ |`ls ~/ "|" grep $1`|findd|Buscador de archivos en una carpeta|
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,19 +18,25 @@ Here are some ideas to get you started:
 
 ## Sobre mi
 
-Estudiante de ingeniería de sistemas **colombiano** con 4 años de experiencia en manejo de bases de datos en **SQL**, **montaje*, **QA Tester de apps** y *7 años* en manejo de datos en **Excel**. 
+Estudiante de ingeniería de sistemas **colombiano** con 4 años de experiencia en manejo de bases de datos en **SQL**, **montaje**, **QA Tester de apps** y *7 años* en manejo de datos en **Excel**. 
 
 En últimos semestres de Ingeniería de sistemas y en proceso de bootcamp con **Undefined Academy**.
 
 ## Tabla de comandos Linux
 
- |Comando|descripción|
+ |**Comando**|**Descripción**|
  |-------|-----------|
- |Date|Fecha y hora actuales|
- |whoami|Nombre del usuario|
- |ls|Listar archivos de la ubicación actual|
- |cd|Navegación entre carpetas|
- |mkdir|creación de carpetas|
- |cat|concatenar un texto de archivo|
- |mv|mover archivos o carpetas, También actualiza nombres|
+ |**Date**|Fecha y hora actuales|
+ |**whoami**|Nombre del usuario|
+ |**ls**|Listar archivos de la ubicación actual|
+ |**cd**|Navegación entre carpetas|
+ |**mkdir**|creación de carpetas|
+ |**cat**|concatenar un texto de archivo|
+ |**mv**|mover archivos o carpetas, También actualiza nombres|
  
+ # Alias útiles
+ |Comando|alias|descripción|
+ |-------|-|-----------|
+ |**ls ~/ l grep $1**|findd|Buscador de archivos en una carpeta (Esa l es una barra vertical, no una L)|
+ |**clear**|cls|Limpiar pantalla (lo ajusté como cls por mal acostumbrarme a windows por el trabajo)|
+ |**code ~/.bashrc**|Bash|Lo definí para que me abra el bash con un solo texto cuando lo necesite|
