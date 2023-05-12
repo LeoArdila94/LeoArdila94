@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LeoArdila94/LeoArdila94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Mucho gusto, soy David Leonardo Ardila
+
+## Sobre mi
+
+Estudiante de ingeniería de sistemas **colombiano** con 4 años de experiencia en manejo de bases de datos en **SQL**, **montaje*, **QA Tester de apps** y *7 años* en manejo de datos en **Excel**. 
+
+En últimos semestres de Ingeniería de sistemas y en proceso de bootcamp con **Undefined Academy**.
