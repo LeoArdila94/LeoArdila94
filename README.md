@@ -34,7 +34,7 @@ En últimos semestres de Ingeniería de sistemas y en proceso de bootcamp con **
  |**cat**|concatenar un texto de archivo|
  |**mv**|mover archivos o carpetas, También actualiza nombres|
  
- # Alias útiles
+ ## Alias útiles
  |Comando|alias|descripción|
  |-------|-|-----------|
  |**ls ~/ l grep $1**|findd|Buscador de archivos en una carpeta (Esa l es una barra vertical, no una L)|
