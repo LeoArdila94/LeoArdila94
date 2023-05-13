@@ -40,3 +40,7 @@ En últimos semestres de Ingeniería de sistemas y en proceso de bootcamp con **
  |**ls ~/ l grep $1**|findd|Buscador de archivos en una carpeta (Esa l es una barra vertical, no una L)|
  |**clear**|cls|Limpiar pantalla (lo ajusté como cls por mal acostumbrarme a windows por el trabajo)|
  |**code ~/.bashrc**|Bash|Lo definí para que me abra el bash con un solo texto cuando lo necesite|
+ 
+ ```bash
+ alias mostued='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
+ ```
