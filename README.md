@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Estudiante de ingeniería de sistemas **colombiano** con 4 años de experiencia en manejo de bases de datos en **SQL**, **montaje**, **QA Tester de apps** y *7 años* en manejo de datos en **Excel**. ✊
 
-En últimos semestres de Ingeniería de sistemas y en proceso de bootcamp con **Undefined Academy** en busca de seguridad y experiencia como desarrollador.
+En últimos semestres de Ingeniería de sistemas en la **CUN** y estoy en proceso de bootcamp con **Undefined Academy** en busca de seguridad y experiencia como desarrollador.
 
 ## Puedes contactarme por: 🤙
 
@@ -28,6 +28,7 @@ En últimos semestres de Ingeniería de sistemas y en proceso de bootcamp con **
 - Linkedin 💼 : <a href="https://www.linkedin.com/in/leoardila/">leoardila</a>
 - Github 🐙: <a href="https://github.com/LeoArdila94">LeoArdila94</a>
 
+Disfruto de jugar videojuegos y hacer ejercicio :)
 
 ## Tabla de comandos Linux
 
